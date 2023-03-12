@@ -37,3 +37,9 @@ results/OSM/dk/data/overshoot_edges_3.csv
 results/OSM/dk/data/undershoot_nodes_3.csv
 results/OSM/dk/maps_static/titleimage.svg
 results/OSM/dk/maps_interactive/taggingcombinations_osm.html
+results/OSM/dk/data/incompatible_tags.csv
+results/OSM/dk/data/stats_area.csv
+results/OSM/dk/data/stats_tags.csv
+
+results/*
+data/*
